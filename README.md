@@ -10,7 +10,6 @@ Bringing years of experience to the table with a rich portfolio of projects, I'm
 
 📧 Email: eganbarov59@gmail.com
 📞 Phone: +994513848887
-💼 Tech Stack I Excel In:
 
 Frontend: HTML5, CSS, JavaScript, jQuery, Bootstrap
 Backend: C#, .NET Framework, .Net Core, Asp.Net MVC, Entity Framework, REST API, Microservices
